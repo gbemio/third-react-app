@@ -6,6 +6,11 @@ const Header = () => {
     <header>
     <nav>
         <img src={logo} width="40px"alt="" />
+        <ul>
+            <li>Pricing</li>
+            <li>About</li>
+            <li>Contact</li>
+        </ul>
     </nav>
 </header>
   )
