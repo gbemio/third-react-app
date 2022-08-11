@@ -12,6 +12,7 @@ const Header = () => {
             <li>Contact</li>
         </ul>
     </nav>
+    
 </header>
   )
 }
